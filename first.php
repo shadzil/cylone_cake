@@ -62,6 +62,143 @@ include_once "nav.php";
     </div><!-- /.row -->
 </div>
 <!-- ----------------------------------------------------------------------------------------------------- -->
+
+<!-- -------------------------------------------------------------------------------------------------------------- -->
+<section>
+  <div class="container-fluid  my-5" >
+
+
+
+    <div class=" text-center heading-section ftco-animate">
+      <span class="subheading">Services</span>
+      <h2 class="mb-3">Our Latest Services</h2>
+    </div>
+  
+
+  <div class="row">
+
+
+    <div class="owl-carousel owl-theme">
+      <div class="item">
+
+<img src="assets/images/xyz.jpg" class="card-img-top">
+
+        <div class="card">
+
+          
+
+          <duv class="class-body">
+
+
+            wdqwd
+        </div>
+      </div>
+      <div class="item">
+
+<img src="assets/images/xyz.jpg" class="card-img-top">
+
+        <div class="card">
+
+          
+
+          <duv class="class-body">
+
+
+            wdqwd
+        </div>
+      </div>
+      <div class="item">
+
+<img src="assets/images/xyz.jpg" class="card-img-top">
+
+        <div class="card">
+
+          
+
+          <duv class="class-body">
+
+
+            wdqwd
+        </div>
+      </div>
+      <div class="item">
+
+<img src="assets/images/xyz.jpg" class="card-img-top">
+
+        <div class="card">
+
+          
+
+          <duv class="class-body">
+
+
+            wdqwd
+        </div>
+      </div>
+      <div class="item">
+
+<img src="assets/images/xyz.jpg" class="card-img-top">
+
+        <div class="card">
+
+          
+
+          <duv class="class-body">
+
+
+            wdqwd
+        </div>
+      </div>
+      <div class="item">
+
+<img src="assets/images/xyz.jpg" class="card-img-top">
+
+        <div class="card">
+
+          
+
+          <duv class="class-body">
+
+
+            wdqwd
+        </div>
+      </div>
+
+
+    </div>
+
+
+  </div>
+
+ 
+</section>
+
+
+<!-- ------------------------------------------------------------------------- -->
+
+
+<div class="container-fluid my-5">
+<div class=" text-center heading-section ftco-animate">
+      <span class="subheading">Services</span>
+      <h2 class="mb-3">Our Latest Services</h2>
+    </div>
+
+<div class="row featurette my-5">
+      <div class="col-md-7 order-md-2">
+        <h2 class="featurette-heading">Oh yeah, it’s that good. <span class="text-muted">See for yourself.</span></h2>
+        <p class="lead">Another featurette? Of course. More placeholder content here to give you an idea of how this layout would work with some actual real-world content in place.</p>
+      </div>
+      <div class="col-md-5 order-md-1">
+        <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
+
+      </div>
+    </div>
+
+
+
+</div>
+
+
 <?php
 
 include_once "foot.php";

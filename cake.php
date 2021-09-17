@@ -8,6 +8,7 @@ class cake{
     public $cake_discription;
     public $cake_price;
     public $cake_status;
+    public $cake_cake;
     public $cake_date;
     
   
@@ -23,8 +24,8 @@ class cake{
 function insert_cake(){
 
 
-    $sql="INSERT INTO cake ( cake_name, cake_discription, cake_price)
-     VALUES ('$this->cake_name','$this->cake_discription','$this->cake_price')";
+    $sql="INSERT INTO cake ( cake_name, cake_discription, cake_price,cake_cat)
+     VALUES ('$this->cake_name','$this->cake_discription','$this->cake_price','$this->cake_cat')";
 
 
 echo $sql;
