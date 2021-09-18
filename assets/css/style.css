@@ -60,3 +60,15 @@
         margin-top: 7rem;
     }
 }
+
+.aboutus{
+    background-color: rgb(173, 173, 173);
+    border: 1px black;
+    box-shadow: inset;
+}
+
+.abtbox{
+
+    border:2px dashed rgb(0, 0, 0);
+    
+}
